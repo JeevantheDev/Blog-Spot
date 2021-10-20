@@ -1,6 +1,6 @@
 ## BlogSpot
 
-> React `Server side rending architecture` based `Blogging platform`.
+> React `Server side rendering architecture` based `Blogging platform`.
 
 #### Idea:
 
